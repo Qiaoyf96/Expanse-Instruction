@@ -14,7 +14,7 @@ source ~/.bashrc
 
 Copy conda environment:
 ```
-cp /expanse/lustre/projects/csb176/yifanq/share/pytorch-env ~/.conda/envs
+cp /expanse/lustre/projects/csb176/yifanq/share-env/pytorch-env ~/.conda/envs
 echo "echo $HOME/.conda/envs/pytorch-env\n" >> ~/.conda/envs/environments.txt
 ```
 
